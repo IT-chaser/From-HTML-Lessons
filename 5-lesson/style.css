@@ -1,0 +1,13 @@
+form{margin:10px 0;}
+form a{display:block;
+width:300px;
+height:30px;
+line-height:30px;
+color:#000;
+text-decoration:none;
+background:#94b8e9 url(1.jpg) no-repeat left top;
+text-indent:10px;
+text-align:center;
+}
+form a:visited
+{background-position: right top;}
